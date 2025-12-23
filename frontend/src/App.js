@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import Login from "./Login";
-import Dashboard from "./Dashboard";
+import Dashboard from "./dashboard/Dashboard";
 import { supabase } from "./supabaseClient";
 
 function App() {
